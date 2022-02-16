@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\klasi\klasi\bin\Debug\net5.0\klasi.exe
+C:\Users\Admin\source\repos\klasi\klasi\bin\Debug\net5.0\klasi.deps.json
+C:\Users\Admin\source\repos\klasi\klasi\bin\Debug\net5.0\klasi.runtimeconfig.json
+C:\Users\Admin\source\repos\klasi\klasi\bin\Debug\net5.0\klasi.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\klasi\klasi\bin\Debug\net5.0\klasi.dll
+C:\Users\Admin\source\repos\klasi\klasi\bin\Debug\net5.0\ref\klasi.dll
+C:\Users\Admin\source\repos\klasi\klasi\bin\Debug\net5.0\klasi.pdb
+C:\Users\Admin\source\repos\klasi\klasi\obj\Debug\net5.0\klasi.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\klasi\klasi\obj\Debug\net5.0\klasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\klasi\klasi\obj\Debug\net5.0\klasi.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\klasi\klasi\obj\Debug\net5.0\klasi.AssemblyInfo.cs
+C:\Users\Admin\source\repos\klasi\klasi\obj\Debug\net5.0\klasi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\klasi\klasi\obj\Debug\net5.0\klasi.dll
+C:\Users\Admin\source\repos\klasi\klasi\obj\Debug\net5.0\ref\klasi.dll
+C:\Users\Admin\source\repos\klasi\klasi\obj\Debug\net5.0\klasi.pdb
+C:\Users\Admin\source\repos\klasi\klasi\obj\Debug\net5.0\klasi.genruntimeconfig.cache

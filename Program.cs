@@ -12,6 +12,7 @@ namespace klasi
             Loger.Instance.Show();
 
             //
+           //
 
 
 
